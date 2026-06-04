@@ -12,9 +12,18 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
+```
+a=input()
+s=a[::-1]
+if a==s:
+    print("The entered string is palindrome")
+else:
+    print("The entered string is not palindrome")
 
-Add code here
+```
 
 ## Output
+<img width="948" height="157" alt="image" src="https://github.com/user-attachments/assets/e684266e-f4a4-4e13-b3e9-2b4f3cfefd10" />
 
 ## Result
+Thus the program executed successfully.
